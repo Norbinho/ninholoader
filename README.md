@@ -1,10 +1,13 @@
 
 
-ninholoader
-
-<img width="203" height="305" alt="ninholoader" src="https://github.com/user-attachments/assets/584c9bb8-238b-4d0f-925c-2dc7f7dd8d59" />
-
-[Download](https://github.com/Norbinho/ninholoader/archive/refs/heads/main.zip)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/584c9bb8-238b-4d0f-925c-2dc7f7dd8d59" width="203" height="305" alt="ninholoader">
+  <br>
+  <br>
+  <a href="https://github.com/Norbinho/ninholoader/archive/refs/heads/main.zip">
+    <img src="https://shields.io" alt="Download">
+  </a>
+</p>
 
 
 A lightweight, portable media downloader built on top of yt-dlp and ffmpeg. Designed for simplicity, speed, and ease of use on Windows.
